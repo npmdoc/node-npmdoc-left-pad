@@ -1,4 +1,7 @@
-# api documentation for  [left-pad (v1.1.3)](https://github.com/stevemao/left-pad#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-left-pad.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-left-pad) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-left-pad.svg)](https://travis-ci.org/npmdoc/node-npmdoc-left-pad)
+# npmdoc-left-pad
+
+#### api documentation for  [left-pad (v1.1.3)](https://github.com/stevemao/left-pad#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-left-pad.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-left-pad) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-left-pad.svg)](https://travis-ci.org/npmdoc/node-npmdoc-left-pad)
+
 #### String left pad
 
 [![NPM](https://nodei.co/npm/left-pad.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/left-pad)
@@ -68,7 +71,8 @@
         "bench": "node perf/perf.js",
         "test": "node test"
     },
-    "version": "1.1.3"
+    "version": "1.1.3",
+    "bin": {}
 }
 ```
 
